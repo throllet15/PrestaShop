@@ -24,7 +24,7 @@ module.exports = {
     'class-methods-use-this': 0,
     'func-names': 0,
     'import/no-extraneous-dependencies': [
-      'errror',
+      'error',
       {
         devDependencies: ['tests/**/*.js', '.webpack/**/*.js'],
       },
